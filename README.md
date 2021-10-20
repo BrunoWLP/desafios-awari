@@ -1,2 +1,2 @@
-# desafios-awari
+# desafios-python-awari
 resolução dos desafios
